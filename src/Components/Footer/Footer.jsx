@@ -27,7 +27,7 @@ const Footer = () => {
       label: "Resources",
       items: [
         {
-          href: "javascript:void()",
+          href: "/aboutme",
           name: "contact",
         },
         {

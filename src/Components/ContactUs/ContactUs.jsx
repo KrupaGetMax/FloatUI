@@ -67,6 +67,7 @@ const ContactUs = () => {
       contact: "Support@example.com",
       title: "Email",
     },
+    
   ];
 
   return (
